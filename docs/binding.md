@@ -2,7 +2,7 @@
 layout: default
 title: Binding
 parent: XML Layout
-nav_order: 2
+nav_order: 1
 ---
 
 ### app/build.gradle
