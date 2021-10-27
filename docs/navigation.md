@@ -72,6 +72,7 @@ fun SetupNavGraph(
 
 ### BreedsListScreen.kt
 ```kotlin
+@Composable
 fun BreedsListScreen(
     navController: NavController,
     viewModel: DogBreedsListModel = DogBreedsListModel()
@@ -80,8 +81,7 @@ fun BreedsListScreen(
         onClick = {
             navigate(
                 navController = navController,
-                breedName = breedName,
-                subBreedName = ""
+                breedName = breedName
             )
         }
     ) { 
