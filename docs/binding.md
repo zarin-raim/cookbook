@@ -1,3 +1,10 @@
+---
+layout: default
+title: Binding
+parent: XML Layout
+nav_order: 2
+---
+
 ### app/build.gradle
 ```gradle
 buildFeatures {
