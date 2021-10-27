@@ -1,3 +1,3 @@
 ## XML Layout
 
-[Data Binding](/binding.md)
+[Data Binding](/docs/binding.md)
